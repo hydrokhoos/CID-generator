@@ -10,3 +10,5 @@ pip install py-cid py-multihash
 python3 gen_cid.py example.txt
 # Generated CID: zb2rhmFNp2PakzNMukQFY6va9rSzpAUsbpMZwDmYxVDpyXUon
 ```
+### Search content by CID
+https://dweb.link/ipfs/zb2rhmFNp2PakzNMukQFY6va9rSzpAUsbpMZwDmYxVDpyXUon
