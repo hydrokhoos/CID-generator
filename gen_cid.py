@@ -23,4 +23,4 @@ if __name__ =='__main__':
         exit(1)
 
     cid = file_to_cid(args[1])
-    print("Generated CID:", cid)
+    print(cid)
